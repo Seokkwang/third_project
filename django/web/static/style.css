@@ -1,0 +1,7 @@
+.navbar {
+    list-style-type: none;
+    background: rgb(221, 248, 254);
+    padding: 10px;
+    margin: 0px;
+    overflow: hidden;
+}
