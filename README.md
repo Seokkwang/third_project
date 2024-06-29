@@ -10,6 +10,6 @@
 
 4. source ./django/venv/bin/activate
 : 가상환경 실행
-5. cd ./djnago/web
+5. cd ./djnago/web 경로 이동한 후, 
   python3 manage.py runserver
   : django 실행
